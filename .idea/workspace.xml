@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5039bf-2fbf-4115-be75-08cebb7020da" name="Changes" comment="Solution of first task" />
+    <list default="true" id="6d5039bf-2fbf-4115-be75-08cebb7020da" name="Changes" comment="Solution of first task">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSAP/secondTaskTSAP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSAP/thirdTastTSAP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/homeworks/firstHomework.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/firstTask.py" beforeDir="false" afterPath="$PROJECT_DIR$/TSAP/firstTaskTSAP.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +27,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -31,14 +41,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.firstHomework.executor": "Run",
     "Python.firstTask.executor": "Run",
+    "Python.secondTaskTSAP.executor": "Run",
+    "Python.thirdTastTSAP.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+    "settings.editor.selected.configurable": "preferences.sourceCode"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="W:\PythonProjects\kispython-TSAP\TSAP" />
+      <recent name="W:\PythonProjects\kispython-TSAP\homeworks" />
+      <recent name="W:\PythonProjects\kispython-TSAP\first" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
