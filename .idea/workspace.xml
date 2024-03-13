@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5039bf-2fbf-4115-be75-08cebb7020da" name="Changes" comment="TSAP (1-5) and Homeworks(1)">
-      <change afterPath="$PROJECT_DIR$/TSAP/sixthTaskTSAP.py" afterDir="false" />
+    <list default="true" id="6d5039bf-2fbf-4115-be75-08cebb7020da" name="Changes" comment="TSAP (1-6) and Homeworks(1)">
+      <change afterPath="$PROJECT_DIR$/TSAP/eighthTaskTSAP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TSAP/seventhTaskTSAP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,12 +38,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.eighthTaskTSAP.executor": "Run",
     "Python.fifthTaskTSAP.executor": "Run",
     "Python.firstClasswork.executor": "Run",
     "Python.firstHomework.executor": "Run",
     "Python.firstTask.executor": "Run",
     "Python.fourthTaskTSAP.executor": "Run",
     "Python.secondTaskTSAP.executor": "Run",
+    "Python.seventhTaskTSAP.executor": "Run",
     "Python.sixthTaskTSAP.executor": "Run",
     "Python.thirdTastTSAP.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -112,7 +115,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708622680429</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="TSAP (1-6) and Homeworks(1)">
+      <option name="closed" value="true" />
+      <created>1709195970847</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1709195970847</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -137,7 +148,8 @@
     <MESSAGE value="TSAP (1-3) and Homeworks(1)" />
     <MESSAGE value="TSAP (1-4) and Homeworks(1)" />
     <MESSAGE value="TSAP (1-5) and Homeworks(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="TSAP (1-5) and Homeworks(1)" />
+    <MESSAGE value="TSAP (1-6) and Homeworks(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="TSAP (1-6) and Homeworks(1)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
