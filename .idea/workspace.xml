@@ -4,27 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d5039bf-2fbf-4115-be75-08cebb7020da" name="Changes" comment="TSAP (1-8) and Homeworks(1)">
-      <change afterPath="$PROJECT_DIR$/TSAP/ninthTaskTSAP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TSAP/tenthTaskTSAP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/2d_engine/2d_visualizer_pyplot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/2d_engine/2d_visualizer_tkinter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/2d_engine/data/PIC.1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/2d_engine/data/PIC.2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/2d_engine/data/PIC.28" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/2d_engine/data/PIC.44" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/3d_visualizer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/heightmap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/texture.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/ад.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/ад_высоты.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/вулкан.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/вулкан_высоты.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/пустыня.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/пустыня_высоты.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/холмики.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/3d_engine/resources/холмики_высоты.png" afterDir="false" />
+    <list default="true" id="6d5039bf-2fbf-4115-be75-08cebb7020da" name="Changes" comment="TSAP (1-10) and Homeworks(3)">
+      <change afterPath="$PROJECT_DIR$/TSAP/eleventhTaskTSAP.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TSAP/tenthTaskTSAP.py" beforeDir="false" afterPath="$PROJECT_DIR$/TSAP/tenthTaskTSAP.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classworks/classwork.py" beforeDir="false" afterPath="$PROJECT_DIR$/classworks/classwork.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +42,15 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python tests.Python tests for eleventhTaskTSAP.TestMealy.executor": "Run",
+    "Python tests.Python tests in eleventhTaskTSAP.py.executor": "Run",
     "Python.2d_visualizer.executor": "Run",
     "Python.2d_visualizer_pyplot.executor": "Run",
     "Python.2d_visualizer_tkinter.executor": "Run",
     "Python.3d_visualizer.executor": "Run",
+    "Python.classwork.executor": "Run",
     "Python.eighthTaskTSAP.executor": "Run",
+    "Python.eleventhTaskTSAP.executor": "Run",
     "Python.fifthTaskTSAP.executor": "Run",
     "Python.firstClasswork.executor": "Run",
     "Python.firstHomework.executor": "Run",
@@ -72,8 +60,9 @@
     "Python.secondTaskTSAP.executor": "Run",
     "Python.seventhTaskTSAP.executor": "Run",
     "Python.sixthTaskTSAP.executor": "Run",
-    "Python.tenthTaskTSAP.executor": "Run",
+    "Python.tenthTaskTSAP.executor": "Debug",
     "Python.thirdTastTSAP.executor": "Run",
+    "Python.санечка.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -96,6 +85,28 @@
       <recent name="W:\PythonProjects\kispython-TSAP\homeworks\resources" />
       <recent name="W:\PythonProjects\kispython-TSAP\TSAP" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Python tests for eleventhTaskTSAP.TestMealy" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="kispython-TSAP" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TSAP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;eleventhTaskTSAP.TestMealy&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for eleventhTaskTSAP.TestMealy" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -161,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710359564439</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="TSAP (1-10) and Homeworks(3)">
+      <option name="closed" value="true" />
+      <created>1711627976491</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711627976491</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,7 +207,8 @@
     <MESSAGE value="TSAP (1-5) and Homeworks(1)" />
     <MESSAGE value="TSAP (1-6) and Homeworks(1)" />
     <MESSAGE value="TSAP (1-8) and Homeworks(1)" />
-    <option name="LAST_COMMIT_MESSAGE" value="TSAP (1-8) and Homeworks(1)" />
+    <MESSAGE value="TSAP (1-10) and Homeworks(3)" />
+    <option name="LAST_COMMIT_MESSAGE" value="TSAP (1-10) and Homeworks(3)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
